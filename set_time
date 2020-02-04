@@ -1,0 +1,2 @@
+
+sudo date +%T -s "$1"
